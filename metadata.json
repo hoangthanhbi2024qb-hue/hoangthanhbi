@@ -1,0 +1,6 @@
+{
+  "name": "Kiểm tra 15 phút - Toán: Mệnh đề",
+  "description": "Bài kiểm tra trắc nghiệm trực tuyến 15 phút môn Toán chủ đề Mệnh đề gồm 5 câu hỏi có công thức KaTeX và chấm điểm tức thì.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
